@@ -9,7 +9,7 @@
  
 - 🌱 I’m currently learning Data Science
 - 💞️ I’m looking to collaborate on any project
-- 📫 How to reach me linkedin.com/in/msobananjum
+- 📫 How to reach me https://www.linkedin.com/in/msobananjum/
 
 <!---
 SobanAnjum07/SobanAnjum07 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
