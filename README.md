@@ -12,16 +12,14 @@
 - ⚡ Fun fact **If you work hard you can achieve anything.**
 ---
 
-
-
-[![SOBAN's github stats](https://github-readme-stats.vercel.app/api?username=SobanAnjum07&theme=radical&show_icons=true)](https://github.com/PAPADOXIE/github-readme-stats)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=SobanAnjum07&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ---
-
-![SOBAN's Languages Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=SobanAnjum07&theme=radical&layout=compact)
+![](https://github-readme-streak-stats.herokuapp.com/?user=SobanAnjum07&theme=radical&hide_border=false)<br/>
 ---
-
-
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=SobanAnjum07" alt="SobanAnjum07" /></a> </p>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=SobanAnjum07&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+---
+![](https://github-profile-trophy.vercel.app/?username=SobanAnjum07&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ---
 <div>
