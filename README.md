@@ -13,14 +13,14 @@
 ---
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=SobanAnjum07&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-stats.vercel.app/api?username=SobanAnjum07&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ---
 ![](https://github-readme-streak-stats.herokuapp.com/?user=SobanAnjum07&theme=radical&hide_border=false)<br/>
 ---
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=SobanAnjum07&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=SobanAnjum07&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 ---
-![](https://github-profile-trophy.vercel.app/?username=SobanAnjum07&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
+### ✍️ Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 ---
 <div>
 <h3 align="left">Languages and Tools:</h3>
