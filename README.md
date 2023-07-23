@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Soban Anjum</h1>
-<h3 align="center">A passionate Python developer from Pakistan</h3>
+<h1 align="center">Hi 👋, I'm Soban Anjum!</h1>
+<h3 align="center">A Passionate Coder and Developer!</h3>
 
 
 
